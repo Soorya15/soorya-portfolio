@@ -7,8 +7,8 @@ const projects = [
   {
     image: portfolio,
     ProjectName: "Portfolio Website",
-    github: "https://github.com/Soorya15/mern-chat-app",
-    live: "https://quickchat-azure.vercel.app"
+    github: "https://github.com/Soorya15/soorya-portfolio",
+    live: "https://soorya-portfolio-two.vercel.app"
   },
   {
     image: Quickchat,
