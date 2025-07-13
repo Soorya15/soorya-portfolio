@@ -25,7 +25,7 @@ const Hero = () => {
             Contact With Me
           </button>
         </a>
-        <a href="/resume-final.pdf" target="_blank" rel="noopener noreferrer" download>
+        <a href="/soorya-resume.pdf" target="_blank" rel="noopener noreferrer" download>
           <button className="bg-gradient-to-r from-pink-500 to-yellow-400 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full cursor-pointer">
             Resume
           </button>
