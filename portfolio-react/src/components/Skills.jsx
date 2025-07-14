@@ -19,7 +19,6 @@ const skillss = [
   { logo: Nodelogo, name: "Node.js" },
   { logo: Expresslogo, name: "Express.js", whiteBg: true },
   { logo: Mongodblogo, name: "MongoDB", whiteBg: true },
-  { logo: Mongooselogo, name: "Mongoose", whiteBg: true },
   { logo: Githublogo, name: "GitHub", whiteBg: true },
 ];
 
